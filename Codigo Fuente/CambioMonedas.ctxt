@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=cantidadADevolver\ cantidadMonedas\ monedas
+comment0.target=CambioMonedas(int,\ int,\ int[])
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=traza
+comment1.target=void\ getCambio(java.lang.Boolean)
+comment1.text=\r\n\ Algoritmo\ de\ programaci\u00F3n\ din\u00E1mica\ que\ calcula\ el\ n\u00FAmero\ m\u00EDnimo\ de\ monedas\ que\ resuelve\ el\ problema\r\n\ @param\ traza\r\n
+comment2.params=
+comment2.target=void\ getMonedas()
+comment2.text=\r\n\ Genera\ un\ array\ con\ la\ cantidad\ de\ monedas\ de\ cada\ tipo\ que\ devuelve\ la\ resoluci\u00F3n\ del\ algoritmo\ anterior\r\n\ @param\ traza\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCambioResultado()
+comment3.text=\r\n\ Devuelve\ el\ n\u00FAmero\ m\u00EDnimo\ de\ monedas\r\n\ @return\ Soluci\u00F3n\r\n
+comment4.params=
+comment4.target=void\ rellenaTraza()
+comment4.text=\r\n\ Muestra\ el\ valor\ de\ cada\ tabla\ en\ la\ traza\ cada\ vez\ que\ se\ va\ rellenando\r\n
+comment5.params=
+comment5.target=void\ compruebaDatos()
+comment5.text=\r\n\ Comprueba\ que\ los\ datos\ son\ correctos\r\n
+numComments=6
